@@ -1,0 +1,1229 @@
+{
+  "jsonVersion": "1.0.0",
+  "id": "01EC7SSGBDV1TRB96EWFCQY0QS",
+  "hash": "",
+  "version": "381042320",
+  "lastUpdate": "2020-07-07T13:26:04.258Z",
+  "app": {
+    "store": {
+      "name": "FirebaseTest",
+      "icon": "https://images-dev.bravostudio.app/w53UncsyjjCAgbah7BEDWBq1Tx352qE3D33p314vU-I/g:sm/MDFFQzdTU0dCRFYxVFJCOTZFV0ZDUVkwUVMvMDFFQzgxM0dQTlI3WU05UTRTTUJFNlcxNUIucG5n",
+      "splash": "https://images-dev.bravostudio.app/Timx_7hFoSwnKBygQJBUqC6nRjLyypn3ZBV6YdDth08/g:sm/MDFFQzdTU0dCRFYxVFJCOTZFV0ZDUVkwUVMvMDFFQzdaWUdQVlhWS0FGQTlWNkpENUVQRjIucG5n",
+      "bundleId": "app.bravostudio.A01EC7SSGBDV1TRB96EWFCQY0QS",
+      "description": ""
+    },
+    "integration": {
+      "firebase": {
+        "json": "https://codelesslabs-previewer.s3.eu-west-3.amazonaws.com/firebasetests-google-services.json"
+      }
+    },
+    "features": {
+      "auth": false,
+      "watermark": true
+    },
+    "fonts": [
+      {
+        "id": "01EC82A8S78VJXNQ0ZDVSK6V22",
+        "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01EC7SSGBDV1TRB96EWFCQY0QS/01EC82A8S78VJXNQ0ZDVSK6V22"
+      }
+    ],
+    "assets": [
+      {
+        "id": "01ECMQ8RNA52NA7W1V72G3937Q",
+        "type": "svg",
+        "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01EC7SSGBDV1TRB96EWFCQY0QS/01ECMQ8RNA52NA7W1V72G3937Q.svg"
+      },
+      {
+        "id": "01ECMQ8RN96H3F9C8A1T8RF91G",
+        "type": "svg",
+        "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01EC7SSGBDV1TRB96EWFCQY0QS/01ECMQ8RN96H3F9C8A1T8RF91G.svg"
+      },
+      {
+        "id": "01ECMQ8RN840MCC23KQR1MZT31",
+        "type": "svg",
+        "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01EC7SSGBDV1TRB96EWFCQY0QS/01ECMQ8RN840MCC23KQR1MZT31.svg"
+      },
+      {
+        "id": "01ECMQ8RN0T24XKJ3BDW18AX9J",
+        "type": "svg",
+        "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01EC7SSGBDV1TRB96EWFCQY0QS/01ECMQ8RN0T24XKJ3BDW18AX9J.svg"
+      },
+      {
+        "id": "01ECMQ8RMZA571YBXBYWB0GK5V",
+        "type": "svg",
+        "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01EC7SSGBDV1TRB96EWFCQY0QS/01ECMQ8RMZA571YBXBYWB0GK5V.svg"
+      },
+      {
+        "id": "01ECMQ8RMVPG52D98N35R5DQRR",
+        "type": "svg",
+        "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01EC7SSGBDV1TRB96EWFCQY0QS/01ECMQ8RMVPG52D98N35R5DQRR.svg"
+      },
+      {
+        "id": "01ECMQ8RMTJ06VPH0FXXZK8G5D",
+        "type": "svg",
+        "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01EC7SSGBDV1TRB96EWFCQY0QS/01ECMQ8RMTJ06VPH0FXXZK8G5D.svg"
+      },
+      {
+        "id": "01EC82A8TJ5AJW54T4DH1CE21Y",
+        "type": "image",
+        "url": "https://images-dev.bravostudio.app/1edeN0kw7MOWG9U-N6BoLkDlytxeHXQaIhQGzSCMnDM/g:sm/MDFFQzdTU0dCRFYxVFJCOTZFV0ZDUVkwUVMvMDFFQzgyQThUSjVBSlc1NFQ0REgxQ0UyMVkucG5n"
+      },
+      {
+        "id": "01EC81C1T8Q0DB5A44C2V0C9MN",
+        "type": "lottie",
+        "url": "https://assets6.lottiefiles.com/temp/lf20_4Jjg2l.json"
+      },
+      {
+        "id": "01EC813GPNR7YM9Q4SMBE6W15B",
+        "type": "image",
+        "url": "https://images-dev.bravostudio.app/w53UncsyjjCAgbah7BEDWBq1Tx352qE3D33p314vU-I/g:sm/MDFFQzdTU0dCRFYxVFJCOTZFV0ZDUVkwUVMvMDFFQzgxM0dQTlI3WU05UTRTTUJFNlcxNUIucG5n"
+      },
+      {
+        "id": "01EC7ZYGRR2Q43DX7SSRXXH4BV",
+        "type": "image",
+        "url": "https://images-dev.bravostudio.app/vH1pj9wsxq_6ULKZWRuc5qAlUjaUE4EGqTzJsC37CVI/g:sm/MDFFQzdTU0dCRFYxVFJCOTZFV0ZDUVkwUVMvMDFFQzdaWUdSUjJRNDNEWDdTU1JYWEg0QlYucG5n"
+      },
+      {
+        "id": "01EC7ZYGPVXVKAFA9V6JD5EPF2",
+        "type": "image",
+        "url": "https://images-dev.bravostudio.app/Timx_7hFoSwnKBygQJBUqC6nRjLyypn3ZBV6YdDth08/g:sm/MDFFQzdTU0dCRFYxVFJCOTZFV0ZDUVkwUVMvMDFFQzdaWUdQVlhWS0FGQTlWNkpENUVQRjIucG5n"
+      }
+    ],
+    "styles": [
+      {
+        "id": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "id": "NBF71Z6G93D4GJV011APJVMSV9HXCBXZ",
+        "positioning": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "backgroundColor": "#ffffffff"
+      },
+      {
+        "id": "YHSXX8D3KHPTST1KE9014PQ093B59YZH",
+        "width": 53.86666666666666,
+        "height": 100,
+        "aspectRatio": 0.24876847290640394,
+        "backgroundColor": "#fff3f3f3"
+      },
+      {
+        "id": "RFBE2KVEVGDKQMZA486XPNVN5BP4KGBW",
+        "positioning": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "backgroundColor": "#fff3f3f3"
+      },
+      {
+        "id": "K7AT718GAAAYBZDG0NACF2XWS8GZYM96",
+        "aspectRatio": 5.033333333333333,
+        "positioning": {
+          "top": 21.05911330049261,
+          "left": 9.900990099009901,
+          "right": 15.346534653465346,
+          "bottom": 75.24630541871922
+        },
+        "backgroundColor": "#00000000"
+      },
+      {
+        "id": "DFHA3TD6GFR9PZSW3MRHJMD8WX7PFPZG",
+        "aspectRatio": 1,
+        "positioning": {
+          "top": 21.05911330049261,
+          "left": 9.900990099009901,
+          "right": 75.24752475247524,
+          "bottom": 75.24630541871922
+        },
+        "backgroundColor": "#00000000"
+      },
+      {
+        "id": "GQ4R4H2DPJANS04Y0XZXQZ3QVWJKHXCD",
+        "aspectRatio": 2.0869565217391304,
+        "positioning": {
+          "top": 23.24384236453202,
+          "left": 11.876237623762377,
+          "right": 77.23267326732673,
+          "bottom": 75.58620689655173
+        }
+      },
+      {
+        "id": "435HX97G33C9T5ZKW6Q43Y1ZZ6T5Q7CD",
+        "aspectRatio": 1,
+        "positioning": {
+          "top": 21.396551724137932,
+          "left": 14.35148514851485,
+          "right": 79.70792079207921,
+          "bottom": 77.1256157635468
+        }
+      },
+      {
+        "id": "6JXWZJ1AY1HVMN9K05GJXX48AZ64T0A7",
+        "color": "#ff4c4c4c",
+        "fontSize": 20,
+        "textAlign": "left",
+        "fontWeight": 400,
+        "aspectRatio": 3.962962962962963,
+        "positioning": {
+          "top": 21.428571428571427,
+          "left": 32.67326732673268,
+          "right": 15.346534653465346,
+          "bottom": 75.49261083743842
+        },
+        "lineHeightPx": 23.4375,
+        "letterSpacing": 0,
+        "verticalPosition": "from-top"
+      },
+      {
+        "id": "AFPMG04X3Q3S3DB8RJ8R2QKWV903W83E",
+        "scaleMode": "fill",
+        "aspectRatio": 1,
+        "positioning": {
+          "top": 5.788177339901478,
+          "left": 38.11881188118812,
+          "right": 38.613861386138616,
+          "bottom": 88.42364532019704
+        }
+      },
+      {
+        "id": "1M2R5TCCHKSRECH43QQGSCEPYM4JWMJV",
+        "color": "#ffd2d2d2",
+        "fontSize": 11,
+        "textAlign": "center",
+        "fontWeight": 400,
+        "aspectRatio": 8.8125,
+        "positioning": {
+          "top": 95.93596059113301,
+          "left": 15.841584158415841,
+          "right": 15.346534653465346,
+          "bottom": 2.3399014778325125
+        },
+        "lineHeightPx": 12.890625,
+        "letterSpacing": 0,
+        "verticalPosition": "from-top",
+        "fontId": "01EC82A8S78VJXNQ0ZDVSK6V22"
+      },
+      {
+        "id": "V5GGZADMWG9VDN0KQFJF09MW2H27D8C6",
+        "color": "#ff4c4c4c",
+        "fontSize": 20,
+        "textAlign": "center",
+        "fontWeight": 400,
+        "aspectRatio": 2.8,
+        "positioning": {
+          "top": 86.82266009852216,
+          "left": 33.16831683168317,
+          "right": 33.16831683168317,
+          "bottom": 10.344827586206897
+        },
+        "lineHeightPx": 23.4375,
+        "letterSpacing": 0,
+        "verticalPosition": "from-top"
+      },
+      {
+        "id": "D33858MHTNCYGF17CPX2ZQGBNCE6HK6A",
+        "aspectRatio": 1,
+        "positioning": {
+          "top": 86.33004926108374,
+          "left": 10.396039603960396,
+          "right": 76.23762376237624,
+          "bottom": 10.344827586206897
+        },
+        "backgroundColor": "#00000000"
+      },
+      {
+        "id": "YJA5RB66GNMJS6M8H321C5CB25TPYNNE",
+        "aspectRatio": 4.9375,
+        "positioning": {
+          "top": 87.86822660098522,
+          "left": 12.680693069306932,
+          "right": 78.53217821782178,
+          "bottom": 11.885467980295566
+        }
+      },
+      {
+        "id": "4SKB0N0KSE4DMGSMK7VZH72NGP0RNKTK",
+        "aspectRatio": 0.6012658227848101,
+        "positioning": {
+          "top": 86.89839901477832,
+          "left": 12.680693069306932,
+          "right": 82.43069306930693,
+          "bottom": 10.915640394088669
+        }
+      },
+      {
+        "id": "E9ZWB3M5WPAH1W73CX1BGP9TBY0KCP47",
+        "width": 100,
+        "height": 100,
+        "aspectRatio": 0.4618226600985222,
+        "backgroundColor": "#ffffffff"
+      },
+      {
+        "id": "KESAJE188J5KHYHF5G5FM4NCG787AFQF",
+        "color": "#ff4c4c4c",
+        "fontSize": 36,
+        "textAlign": "center",
+        "fontWeight": 400,
+        "lineHeight": 66.66666412353516,
+        "aspectRatio": 3.1808510638297873,
+        "positioning": {
+          "top": 18.103448275862068,
+          "left": 10.933333333333334,
+          "right": 9.866666666666667,
+          "bottom": 70.56650246305419
+        },
+        "lineHeightPx": 24,
+        "letterSpacing": 0,
+        "verticalPosition": "center"
+      },
+      {
+        "id": "RDQ3V3VVQH3V03KJ9FJR957042YZ00NA",
+        "aspectRatio": 1,
+        "positioning": {
+          "top": 40.27093596059113,
+          "left": 10.133333333333333,
+          "right": 9.866666666666667,
+          "bottom": 22.783251231527093
+        }
+      },
+      {
+        "id": "HWMQ39XWJYR0QY9AQ8J5JWPFXTJ0NEBB",
+        "rotation": 90.00000250447808,
+        "aspectRatio": 1.0000001412850938,
+        "positioning": {
+          "top": 3.940887051850117,
+          "left": 5.0666664123535154,
+          "right": 87.73333307902018,
+          "bottom": 92.73399003033568
+        },
+        "backgroundColor": "#00000000"
+      },
+      {
+        "id": "Q14184WZX31WER0X6AJ3VAJC8TGRAHF4",
+        "aspectRatio": 3.812499307096087,
+        "positioning": {
+          "top": 6.310344827586206,
+          "left": 5.997333333333334,
+          "right": 90.46933358764649,
+          "bottom": 93.44334969497079
+        }
+      },
+      {
+        "id": "4PX424GQ00GBSHP9EHJPJR08SYNNCSKM",
+        "aspectRatio": 5.499998211861083,
+        "positioning": {
+          "top": 5.479064039408867,
+          "left": 5.997333333333334,
+          "right": 88.66933384195964,
+          "bottom": 94.27463042442434
+        }
+      },
+      {
+        "id": "0BVNWV2KAZ367V4CWRY821VWKERJ7GDJ",
+        "aspectRatio": 2.6874996796250725,
+        "positioning": {
+          "top": 4.647783251231527,
+          "left": 5.997333333333334,
+          "right": 91.66933333333333,
+          "bottom": 95.10591127132547
+        }
+      },
+      {
+        "id": "ZYWZKATX28EHGNTD93SAKWMTEPNVN2H2",
+        "width": 100,
+        "height": 100,
+        "aspectRatio": 0.4618226600985222,
+        "backgroundColor": "#00000000"
+      },
+      {
+        "id": "SD3NZT817WVXZQ7TWT5JWQ9389F2YPN0",
+        "aspectRatio": 6.25,
+        "positioning": {
+          "top": 48.891625615763544,
+          "left": 16.53333333333333,
+          "right": 16.8,
+          "bottom": 46.18226600985222
+        },
+        "backgroundColor": "#00000000"
+      },
+      {
+        "id": "QPFX1HA6GWJKM7881VPCXNEDPBVXR2NM",
+        "opacity": 34,
+        "aspectRatio": 6.25,
+        "borderColor": "#ff757575",
+        "borderWidth": 0.4,
+        "cornerRadii": [
+          1.2,
+          1.2,
+          1.2,
+          1.2
+        ],
+        "positioning": {
+          "top": 48.891625615763544,
+          "left": 16.53333333333333,
+          "right": 16.8,
+          "bottom": 46.18226600985222
+        },
+        "borderRadius": 1.2,
+        "backgroundColor": "#ffe8eaed"
+      },
+      {
+        "id": "4PD9WRM9YTQMM3D7E95G01006W9M6M3M",
+        "color": "#ff757575",
+        "fontSize": 14,
+        "textAlign": "center",
+        "fontWeight": 400,
+        "lineHeight": 171.42857360839844,
+        "aspectRatio": 5.831018415539027,
+        "positioning": {
+          "top": 49.01477832512315,
+          "left": 20.533333333333335,
+          "right": 18.933333333333334,
+          "bottom": 46.39498424060239
+        },
+        "lineHeightPx": 24,
+        "letterSpacing": 0,
+        "verticalPosition": "center"
+      },
+      {
+        "id": "CBD8AGNQQQ9T6QGH5KFCKCD235KSWVWA",
+        "aspectRatio": 6.25,
+        "positioning": {
+          "top": 56.2807881773399,
+          "left": 16.53333333333333,
+          "right": 16.8,
+          "bottom": 38.793103448275865
+        },
+        "backgroundColor": "#00000000"
+      },
+      {
+        "id": "54XDEXKRECM53E4ZNXWREF41PCSG47QQ",
+        "opacity": 34,
+        "aspectRatio": 6.25,
+        "borderColor": "#ff757575",
+        "borderWidth": 0.4,
+        "cornerRadii": [
+          1.2,
+          1.2,
+          1.2,
+          1.2
+        ],
+        "positioning": {
+          "top": 56.2807881773399,
+          "left": 16.53333333333333,
+          "right": 16.8,
+          "bottom": 38.793103448275865
+        },
+        "borderRadius": 1.2,
+        "backgroundColor": "#ffe8eaed"
+      },
+      {
+        "id": "P8TKTE6K7T4DWE226XDSKRER9PCZEWYT",
+        "color": "#ff757575",
+        "fontSize": 14,
+        "textAlign": "center",
+        "fontWeight": 400,
+        "lineHeight": 171.42857360839844,
+        "aspectRatio": 5.831018415539027,
+        "positioning": {
+          "top": 56.39274531397326,
+          "left": 20.533333333333335,
+          "right": 18.933333333333334,
+          "bottom": 39.01701725175228
+        },
+        "lineHeightPx": 24,
+        "letterSpacing": 0,
+        "verticalPosition": "center"
+      },
+      {
+        "id": "5JK39F2T7P83MXGJSGVFNSASF5NZ5RQ5",
+        "aspectRatio": 2.515151515151515,
+        "positioning": {
+          "top": 66.25615763546799,
+          "left": 38.666666666666664,
+          "right": 39.2,
+          "bottom": 29.679802955665025
+        },
+        "backgroundColor": "#00000000"
+      },
+      {
+        "id": "AEX4G4V1KEF4JHWSXDJWKP2WE4NRQ85F",
+        "aspectRatio": 2.515151515151515,
+        "cornerRadii": [
+          3.6144578313253013,
+          3.6144578313253013,
+          3.6144578313253013,
+          3.6144578313253013
+        ],
+        "positioning": {
+          "top": 66.25615763546799,
+          "left": 38.666666666666664,
+          "right": 39.2,
+          "bottom": 29.679802955665025
+        },
+        "borderRadius": 3.6144578313253013,
+        "backgroundColor": "#ff757575"
+      },
+      {
+        "id": "24SSBV4K7DN82XWM8TMZSZ4GP368ZBEV",
+        "color": "#ffffffff",
+        "fontSize": 14,
+        "textAlign": "center",
+        "fontWeight": 400,
+        "lineHeight": 171.42857360839844,
+        "aspectRatio": 2.4,
+        "positioning": {
+          "top": 66.25615763546799,
+          "left": 38.93333333333333,
+          "right": 39.2,
+          "bottom": 29.679802955665025
+        },
+        "lineHeightPx": 24,
+        "letterSpacing": 0,
+        "verticalPosition": "center"
+      },
+      {
+        "id": "07270QZFWPA09V2ZCRPF7SQ5A4QEQFGG",
+        "scaleMode": "fill",
+        "aspectRatio": 2.6595744680851063,
+        "positioning": {
+          "top": 24.75369458128079,
+          "left": 0,
+          "right": 0,
+          "bottom": 57.88177339901478
+        }
+      },
+      {
+        "id": "4707XCMA8JZHWNSWSGGE0WZC2G1F9TZ0",
+        "aspectRatio": 1,
+        "positioning": {
+          "top": 3.8177339901477834,
+          "left": 6.933333333333333,
+          "right": 85.86666666666667,
+          "bottom": 92.85714285714286
+        },
+        "backgroundColor": "#00000000"
+      },
+      {
+        "id": "E5WBKY4PDJ44T0E7B8HN3M4XVWKNQ6VM",
+        "aspectRatio": 4.9375,
+        "positioning": {
+          "top": 5.355911330049261,
+          "left": 8.164,
+          "right": 87.10266666666666,
+          "bottom": 94.39778325123153
+        }
+      },
+      {
+        "id": "P7BSW6NTXJCVMDERXDX1ASZNK2CHHGK7",
+        "aspectRatio": 0.6012658227848101,
+        "positioning": {
+          "top": 4.386083743842365,
+          "left": 8.164,
+          "right": 89.20266666666667,
+          "bottom": 93.42795566502463
+        }
+      },
+      {
+        "id": "XFH7WR4HMKN49ZPNZ34V402D3H3ZY7BZ",
+        "aspectRatio": 2.515151515151515,
+        "positioning": {
+          "top": 56.15763546798029,
+          "left": 38.666666666666664,
+          "right": 39.2,
+          "bottom": 39.778325123152705
+        },
+        "backgroundColor": "#00000000"
+      },
+      {
+        "id": "XATJAW9NVC4N78QAW8HTASWSJA9TQSQV",
+        "aspectRatio": 2.515151515151515,
+        "cornerRadii": [
+          3.6144578313253013,
+          3.6144578313253013,
+          3.6144578313253013,
+          3.6144578313253013
+        ],
+        "positioning": {
+          "top": 56.15763546798029,
+          "left": 38.666666666666664,
+          "right": 39.2,
+          "bottom": 39.778325123152705
+        },
+        "borderRadius": 3.6144578313253013,
+        "backgroundColor": "#ff757575"
+      },
+      {
+        "id": "1YQYKSV88W6ADTMN0PFS2A2J2SVZX4A1",
+        "color": "#ffffffff",
+        "fontSize": 14,
+        "textAlign": "center",
+        "fontWeight": 400,
+        "lineHeight": 171.42857360839844,
+        "aspectRatio": 2.4,
+        "positioning": {
+          "top": 56.15763546798029,
+          "left": 38.93333333333333,
+          "right": 39.2,
+          "bottom": 39.778325123152705
+        },
+        "lineHeightPx": 24,
+        "letterSpacing": 0,
+        "verticalPosition": "center"
+      },
+      {
+        "id": "8TXS2T8K8KH55GP4T1JR5TXWCBD9W1D0",
+        "color": "#ff4c4c4c",
+        "fontSize": 14,
+        "textAlign": "left",
+        "fontWeight": 400,
+        "lineHeight": 171.42857360839844,
+        "aspectRatio": 8.366666666666667,
+        "positioning": {
+          "top": 44.45812807881773,
+          "left": 16.8,
+          "right": 16.8,
+          "bottom": 52.0935960591133
+        },
+        "lineHeightPx": 24,
+        "letterSpacing": 0,
+        "verticalPosition": "center"
+      },
+      {
+        "id": "E86X46NWJQXAVYWZ0EJF5VC02HP2PEEX",
+        "aspectRatio": 1,
+        "positioning": {
+          "top": 4.1871921182266005,
+          "left": 5.6000000000000005,
+          "right": 87.2,
+          "bottom": 92.48768472906403
+        },
+        "backgroundColor": "#00000000"
+      },
+      {
+        "id": "7DZGGMTJ7EP9ZNDHB59RBVB0F81GHTC9",
+        "aspectRatio": 4.9375,
+        "positioning": {
+          "top": 5.725369458128078,
+          "left": 6.830666666666667,
+          "right": 88.436,
+          "bottom": 94.0283251231527
+        }
+      },
+      {
+        "id": "NA3WEWVWRYDKVPWCKSQBBFBN4SCRBTQN",
+        "aspectRatio": 0.6012658227848101,
+        "positioning": {
+          "top": 4.755541871921182,
+          "left": 6.830666666666667,
+          "right": 90.536,
+          "bottom": 93.05849753694581
+        }
+      },
+      {
+        "id": "54W826H7GZPF41HKJ5XD7GVNWQC5MKVG",
+        "color": "#ff4c4c4c",
+        "fontSize": 14,
+        "textAlign": "center",
+        "fontWeight": 400,
+        "lineHeight": 171.42857360839844,
+        "aspectRatio": 5.9,
+        "positioning": {
+          "top": 82.88177339901478,
+          "left": 26.400000000000002,
+          "right": 26.93333333333333,
+          "bottom": 13.669950738916256
+        },
+        "lineHeightPx": 24,
+        "letterSpacing": 0,
+        "textDecoration": "underline",
+        "verticalPosition": "center"
+      },
+      {
+        "id": "VX34SDVB78ZQ607XWXK4G2DCVY8Q1TEQ",
+        "color": "#ff4c4c4c",
+        "fontSize": 14,
+        "textAlign": "center",
+        "fontWeight": 400,
+        "lineHeight": 171.42857360839844,
+        "aspectRatio": 5.9,
+        "positioning": {
+          "top": 61.822660098522164,
+          "left": 40.8,
+          "right": 12.533333333333333,
+          "bottom": 34.72906403940887
+        },
+        "lineHeightPx": 24,
+        "letterSpacing": 0,
+        "textDecoration": "underline",
+        "verticalPosition": "center"
+      }
+    ],
+    "data": {
+      "menus": [
+        {
+          "id": "01EC82A8RY1TKTX7Y38WV02ZA6",
+          "type": "menu:side",
+          "name": "Menu Side Light",
+          "background": {
+            "id": "01EC82A8TDFHR87DS6Y5GX4RGD",
+            "type": "container:background",
+            "tags": [
+              "bravo:layer"
+            ],
+            "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+            "components": [
+              {
+                "id": "01EC82A8TE3Z5GTR9WAPTAD0F3",
+                "type": "component:color",
+                "tags": [
+                  "bravo:layer"
+                ],
+                "styleId": "NBF71Z6G93D4GJV011APJVMSV9HXCBXZ"
+              }
+            ]
+          },
+          "body": [
+            {
+              "id": "01EC82A8S20HGY8S9GNS9V2S26",
+              "type": "container:default",
+              "styleId": "YHSXX8D3KHPTST1KE9014PQ093B59YZH",
+              "background": {
+                "id": "01EC82A8TF5NDJ2PZ82SFGNNZH",
+                "type": "container:background",
+                "tags": [
+                  "bravo:layer"
+                ],
+                "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                "components": [
+                  {
+                    "id": "01EC82A8TF2PF4AJ63QJ6C5AMB",
+                    "type": "component:color",
+                    "tags": [
+                      "bravo:layer"
+                    ],
+                    "styleId": "RFBE2KVEVGDKQMZA486XPNVN5BP4KGBW"
+                  }
+                ]
+              },
+              "components": [
+                {
+                  "id": "01EC82A8S30JF703AZHSX87YPJ",
+                  "type": "component:color",
+                  "href": "01EC7SSGC40FCFJZADZZE2TS1X",
+                  "styleId": "K7AT718GAAAYBZDG0NACF2XWS8GZYM96"
+                },
+                {
+                  "id": "01EC82A8S42XAPZ0AVNRR5P3RC",
+                  "type": "component:color",
+                  "styleId": "DFHA3TD6GFR9PZSW3MRHJMD8WX7PFPZG"
+                },
+                {
+                  "id": "01EC82A8S597H8XVWRZJ0HE3JX",
+                  "type": "component:svg",
+                  "assetId": "01ECMQ8RMTJ06VPH0FXXZK8G5D",
+                  "styleId": "GQ4R4H2DPJANS04Y0XZXQZ3QVWJKHXCD"
+                },
+                {
+                  "id": "01EC82A8S66X47H1DXNAKRYK31",
+                  "type": "component:svg",
+                  "assetId": "01ECMQ8RMVPG52D98N35R5DQRR",
+                  "styleId": "435HX97G33C9T5ZKW6Q43Y1ZZ6T5Q7CD"
+                },
+                {
+                  "id": "01EC82A8S7D5HNMQWXNZ0HF5H6",
+                  "type": "component:text",
+                  "styleId": "6JXWZJ1AY1HVMN9K05GJXX48AZ64T0A7",
+                  "text": {
+                    "en": "Profile"
+                  }
+                },
+                {
+                  "id": "01EC82A8S8HABQMR7KMSC86T2C",
+                  "type": "component:image",
+                  "assetId": "01EC82A8TJ5AJW54T4DH1CE21Y",
+                  "styleId": "AFPMG04X3Q3S3DB8RJ8R2QKWV903W83E"
+                },
+                {
+                  "id": "01EC82A8S88BW1CX0JQY94F750",
+                  "type": "component:text",
+                  "styleId": "1M2R5TCCHKSRECH43QQGSCEPYM4JWMJV",
+                  "text": {
+                    "en": "Made for Bravo Studio"
+                  }
+                },
+                {
+                  "id": "01ECJDZA39197F5YM215TJGTGV",
+                  "type": "component:text",
+                  "tags": [
+                    "action:logout:firebase"
+                  ],
+                  "actions": {
+                    "tap": {
+                      "action": "logout"
+                    }
+                  },
+                  "styleId": "V5GGZADMWG9VDN0KQFJF09MW2H27D8C6",
+                  "text": {
+                    "en": "Log out"
+                  }
+                },
+                {
+                  "id": "01ECMQ8RMYGFB1KA2N0NWV6FGK",
+                  "type": "component:color",
+                  "styleId": "D33858MHTNCYGF17CPX2ZQGBNCE6HK6A"
+                },
+                {
+                  "id": "01ECMQ8RMZ069A9RRF8BWWE6GG",
+                  "type": "component:svg",
+                  "assetId": "01ECMQ8RMZA571YBXBYWB0GK5V",
+                  "styleId": "YJA5RB66GNMJS6M8H321C5CB25TPYNNE"
+                },
+                {
+                  "id": "01ECMQ8RMZXPHZP51JG1EAN5VS",
+                  "type": "component:svg",
+                  "assetId": "01ECMQ8RN0T24XKJ3BDW18AX9J",
+                  "styleId": "4SKB0N0KSE4DMGSMK7VZH72NGP0RNKTK"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "pages": [
+        {
+          "id": "01EC7SSGC40FCFJZADZZE2TS1X",
+          "type": "page:default",
+          "name": "Logged in",
+          "start": true,
+          "background": {
+            "id": "01EC7SSGDEXMT5YH7PW8PMT0YF",
+            "type": "container:background",
+            "tags": [
+              "bravo:layer"
+            ],
+            "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+            "components": [
+              {
+                "id": "01EC7SSGDG9W6A233VKT2B40GS",
+                "type": "component:color",
+                "tags": [
+                  "bravo:layer"
+                ],
+                "styleId": "NBF71Z6G93D4GJV011APJVMSV9HXCBXZ"
+              }
+            ]
+          },
+          "body": [
+            {
+              "id": "01EC7SSGC68V9RWKDDVE3TY0SB",
+              "type": "container:default",
+              "styleId": "E9ZWB3M5WPAH1W73CX1BGP9TBY0KCP47",
+              "components": [
+                {
+                  "id": "01EC7SSGCAMCFB1Y9YEHVQ975H",
+                  "type": "component:text",
+                  "styleId": "KESAJE188J5KHYHF5G5FM4NCG787AFQF",
+                  "text": {
+                    "en": "You are logged in! "
+                  }
+                },
+                {
+                  "id": "01EC81C1T8HHHPXYECD2M52CGZ",
+                  "type": "component:lottie",
+                  "assetId": "01EC81C1T8Q0DB5A44C2V0C9MN",
+                  "styleId": "RDQ3V3VVQH3V03KJ9FJR957042YZ00NA"
+                },
+                {
+                  "id": "01ECMQ8RN66VPB61QZYYJS5QXN",
+                  "type": "component:color",
+                  "href": "01EC82A8RY1TKTX7Y38WV02ZA6",
+                  "styleId": "HWMQ39XWJYR0QY9AQ8J5JWPFXTJ0NEBB"
+                },
+                {
+                  "id": "01ECMQ8RN75BGKC5BTB8V6Z5N3",
+                  "type": "component:svg",
+                  "assetId": "01ECMQ8RN840MCC23KQR1MZT31",
+                  "styleId": "Q14184WZX31WER0X6AJ3VAJC8TGRAHF4"
+                },
+                {
+                  "id": "01ECMQ8RN8YNTCQE0RNS9E6R7H",
+                  "type": "component:svg",
+                  "assetId": "01ECMQ8RN96H3F9C8A1T8RF91G",
+                  "styleId": "4PX424GQ00GBSHP9EHJPJR08SYNNCSKM"
+                },
+                {
+                  "id": "01ECMQ8RN93RYP02J21Y7GB32V",
+                  "type": "component:svg",
+                  "assetId": "01ECMQ8RNA52NA7W1V72G3937Q",
+                  "styleId": "0BVNWV2KAZ367V4CWRY821VWKERJ7GDJ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "01ECJDZA3DHPZR33N9NP6MFGQ8",
+          "type": "page:default",
+          "name": "Sign up",
+          "background": {
+            "id": "01ECJDZA4QY3XXVZTN6TZZMTFN",
+            "type": "container:background",
+            "tags": [
+              "bravo:layer"
+            ],
+            "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+            "components": [
+              {
+                "id": "01ECJDZA4RZMJWQ8YK2RHK9XE3",
+                "type": "component:color",
+                "tags": [
+                  "bravo:layer"
+                ],
+                "styleId": "NBF71Z6G93D4GJV011APJVMSV9HXCBXZ"
+              }
+            ]
+          },
+          "body": [
+            {
+              "id": "01ECJDZA3JXG0Y4HEGCB09VHZP",
+              "type": "container:default",
+              "tags": [
+                "display:fullscreen"
+              ],
+              "styleId": "ZYWZKATX28EHGNTD93SAKWMTEPNVN2H2",
+              "components": [
+                {
+                  "id": "01ECJDZA3J0YCP33YG7T817Y7V",
+                  "type": "component:color",
+                  "styleId": "SD3NZT817WVXZQ7TWT5JWQ9389F2YPN0"
+                },
+                {
+                  "id": "01ECJDZA3JSP0J5VWWZS6YA53W",
+                  "type": "component:color",
+                  "styleId": "QPFX1HA6GWJKM7881VPCXNEDPBVXR2NM"
+                },
+                {
+                  "id": "01ECJDZA3KFJ78R0SRB9HMQ4NE",
+                  "type": "component:input-email",
+                  "styleId": "4PD9WRM9YTQMM3D7E95G01006W9M6M3M",
+                  "text": {
+                    "en": "Enter your email"
+                  }
+                },
+                {
+                  "id": "01ECJDZA3K7E0YSK1AVN48BJCR",
+                  "type": "component:color",
+                  "styleId": "CBD8AGNQQQ9T6QGH5KFCKCD235KSWVWA"
+                },
+                {
+                  "id": "01ECJDZA3MWHDC6NR2S18PM033",
+                  "type": "component:color",
+                  "styleId": "54XDEXKRECM53E4ZNXWREF41PCSG47QQ"
+                },
+                {
+                  "id": "01ECJDZA3MDJ97TNRYADJ0N2W3",
+                  "type": "component:input-password",
+                  "styleId": "P8TKTE6K7T4DWE226XDSKRER9PCZEWYT",
+                  "text": {
+                    "en": "Enter your password"
+                  }
+                },
+                {
+                  "id": "01ECJDZA3NWSJBRAH965G5YRRR",
+                  "type": "component:color",
+                  "tags": [
+                    "action:register:firebase-email-password"
+                  ],
+                  "styleId": "5JK39F2T7P83MXGJSGVFNSASF5NZ5RQ5"
+                },
+                {
+                  "id": "01ECJDZA3P408PTJ918TST2CRA",
+                  "type": "component:color",
+                  "styleId": "AEX4G4V1KEF4JHWSXDJWKP2WE4NRQ85F"
+                },
+                {
+                  "id": "01ECJDZA3PFW8FZX0BCJ1HR3G3",
+                  "type": "component:text",
+                  "styleId": "24SSBV4K7DN82XWM8TMZSZ4GP368ZBEV",
+                  "text": {
+                    "en": "Sign Up"
+                  }
+                },
+                {
+                  "id": "01ECJDZA3PRC246WK41ZCRRA6Q",
+                  "type": "component:image",
+                  "assetId": "01EC7ZYGRR2Q43DX7SSRXXH4BV",
+                  "styleId": "07270QZFWPA09V2ZCRPF7SQ5A4QEQFGG"
+                },
+                {
+                  "id": "01ECMQ8RNGTY0SJ32TA0QBQD2D",
+                  "type": "component:color",
+                  "href": "01EC7SSGCDHE3C7QWWWJY8RMVM",
+                  "styleId": "4707XCMA8JZHWNSWSGGE0WZC2G1F9TZ0"
+                },
+                {
+                  "id": "01ECMQ8RNHWQ7E1158FFXZPNZT",
+                  "type": "component:svg",
+                  "assetId": "01ECMQ8RMZA571YBXBYWB0GK5V",
+                  "styleId": "E5WBKY4PDJ44T0E7B8HN3M4XVWKNQ6VM"
+                },
+                {
+                  "id": "01ECMQ8RNHBWPFNGMGWYKKH331",
+                  "type": "component:svg",
+                  "assetId": "01ECMQ8RN0T24XKJ3BDW18AX9J",
+                  "styleId": "P7BSW6NTXJCVMDERXDX1ASZNK2CHHGK7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "01ECMNYFV8WZXZDZ3AKGYVZ3JB",
+          "type": "page:default",
+          "name": "Email",
+          "background": {
+            "id": "01ECMNYFZ74H1ABGV31QFNEND0",
+            "type": "container:background",
+            "tags": [
+              "bravo:layer"
+            ],
+            "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+            "components": [
+              {
+                "id": "01ECMNYFZ7P89W1XHY45QB0045",
+                "type": "component:color",
+                "tags": [
+                  "bravo:layer"
+                ],
+                "styleId": "NBF71Z6G93D4GJV011APJVMSV9HXCBXZ"
+              }
+            ]
+          },
+          "body": [
+            {
+              "id": "01ECMNYFVDPNKPHT5A8C8XZVAZ",
+              "type": "container:default",
+              "tags": [
+                "display:fullscreen"
+              ],
+              "styleId": "ZYWZKATX28EHGNTD93SAKWMTEPNVN2H2",
+              "components": [
+                {
+                  "id": "01ECMNYFVEHZVWAG0V6Z0G8WY2",
+                  "type": "component:color",
+                  "styleId": "SD3NZT817WVXZQ7TWT5JWQ9389F2YPN0"
+                },
+                {
+                  "id": "01ECMNYFVE0VHR4PPGEG0Z4FR0",
+                  "type": "component:color",
+                  "styleId": "QPFX1HA6GWJKM7881VPCXNEDPBVXR2NM"
+                },
+                {
+                  "id": "01ECMNYFVEARTMBVM82XR33CR3",
+                  "type": "component:input-email",
+                  "styleId": "4PD9WRM9YTQMM3D7E95G01006W9M6M3M",
+                  "text": {
+                    "en": "Enter your email"
+                  }
+                },
+                {
+                  "id": "01ECMNYFVFGA9Z4600Z287KEX7",
+                  "type": "component:color",
+                  "tags": [
+                    "action:firebase-reset-password"
+                  ],
+                  "styleId": "XFH7WR4HMKN49ZPNZ34V402D3H3ZY7BZ"
+                },
+                {
+                  "id": "01ECMNYFVF3ABDGKFTFAZE7M0R",
+                  "type": "component:color",
+                  "styleId": "XATJAW9NVC4N78QAW8HTASWSJA9TQSQV"
+                },
+                {
+                  "id": "01ECMNYFVGE3KZ7VQZSW3KQKPF",
+                  "type": "component:text",
+                  "styleId": "1YQYKSV88W6ADTMN0PFS2A2J2SVZX4A1",
+                  "text": {
+                    "en": "Reset"
+                  }
+                },
+                {
+                  "id": "01ECMNYFVGZRBVXYRX2RXP2R76",
+                  "type": "component:image",
+                  "assetId": "01EC7ZYGRR2Q43DX7SSRXXH4BV",
+                  "styleId": "07270QZFWPA09V2ZCRPF7SQ5A4QEQFGG"
+                },
+                {
+                  "id": "01ECMNYFVGJQK5FS2HDXNAD65T",
+                  "type": "component:text",
+                  "styleId": "8TXS2T8K8KH55GP4T1JR5TXWCBD9W1D0",
+                  "text": {
+                    "en": "Enter your email"
+                  }
+                },
+                {
+                  "id": "01ECMQ8RNW67KH41BH9EPZF833",
+                  "type": "component:color",
+                  "href": "01EC7SSGCDHE3C7QWWWJY8RMVM",
+                  "styleId": "E86X46NWJQXAVYWZ0EJF5VC02HP2PEEX"
+                },
+                {
+                  "id": "01ECMQ8RNWP8EHZ8F9P5D1ZVBA",
+                  "type": "component:svg",
+                  "assetId": "01ECMQ8RMZA571YBXBYWB0GK5V",
+                  "styleId": "7DZGGMTJ7EP9ZNDHB59RBVB0F81GHTC9"
+                },
+                {
+                  "id": "01ECMQ8RNX1DCBKNMBQ2X07RH6",
+                  "type": "component:svg",
+                  "assetId": "01ECMQ8RN0T24XKJ3BDW18AX9J",
+                  "styleId": "NA3WEWVWRYDKVPWCKSQBBFBN4SCRBTQN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "01EC7SSGCDHE3C7QWWWJY8RMVM",
+          "type": "page:login",
+          "name": "Login",
+          "background": {
+            "id": "01EC7SSGDJHN4XS5KYXQDY0RA8",
+            "type": "container:background",
+            "tags": [
+              "bravo:layer"
+            ],
+            "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+            "components": [
+              {
+                "id": "01EC7SSGDJJAZNXRYQCEQT5CSD",
+                "type": "component:color",
+                "tags": [
+                  "bravo:layer"
+                ],
+                "styleId": "NBF71Z6G93D4GJV011APJVMSV9HXCBXZ"
+              }
+            ]
+          },
+          "body": [
+            {
+              "id": "01EC7SSGCGCDA4CAVH10KHHTWZ",
+              "type": "container:default",
+              "tags": [
+                "display:fullscreen"
+              ],
+              "styleId": "ZYWZKATX28EHGNTD93SAKWMTEPNVN2H2",
+              "components": [
+                {
+                  "id": "01EC80AGWBF8HB2447K1G5ABZV",
+                  "type": "component:color",
+                  "styleId": "SD3NZT817WVXZQ7TWT5JWQ9389F2YPN0"
+                },
+                {
+                  "id": "01EC7SSGCJ2GZ7Y77TB562808Y",
+                  "type": "component:color",
+                  "styleId": "QPFX1HA6GWJKM7881VPCXNEDPBVXR2NM"
+                },
+                {
+                  "id": "01ECJ1GRE8F3E9H55777Y507KN",
+                  "type": "component:input-email",
+                  "styleId": "4PD9WRM9YTQMM3D7E95G01006W9M6M3M",
+                  "text": {
+                    "en": "Enter your email"
+                  }
+                },
+                {
+                  "id": "01EC80AGWDMZ0431J16PFY2MZY",
+                  "type": "component:color",
+                  "styleId": "CBD8AGNQQQ9T6QGH5KFCKCD235KSWVWA"
+                },
+                {
+                  "id": "01EC7SSGCKXPXNSD49ABBSN8WQ",
+                  "type": "component:color",
+                  "styleId": "54XDEXKRECM53E4ZNXWREF41PCSG47QQ"
+                },
+                {
+                  "id": "01ECJ1GREBCWEFTYPACNCYTFYE",
+                  "type": "component:input-password",
+                  "styleId": "P8TKTE6K7T4DWE226XDSKRER9PCZEWYT",
+                  "text": {
+                    "en": "Enter your password"
+                  }
+                },
+                {
+                  "id": "01EC7SSGCT219VZWX9YSV2MEEJ",
+                  "type": "component:color",
+                  "tags": [
+                    "action:login:firebase-email-password"
+                  ],
+                  "actions": {
+                    "tap": {
+                      "action": "login",
+                      "params": {
+                        "provider": "firebase-email-password"
+                      }
+                    }
+                  },
+                  "styleId": "5JK39F2T7P83MXGJSGVFNSASF5NZ5RQ5"
+                },
+                {
+                  "id": "01EC7SSGCV0M0QTZ8ZVHZ1RAPJ",
+                  "type": "component:color",
+                  "styleId": "AEX4G4V1KEF4JHWSXDJWKP2WE4NRQ85F"
+                },
+                {
+                  "id": "01EC7SSGCV02W8SAJV49EA9SH3",
+                  "type": "component:text",
+                  "styleId": "24SSBV4K7DN82XWM8TMZSZ4GP368ZBEV",
+                  "text": {
+                    "en": "Log in"
+                  }
+                },
+                {
+                  "id": "01EC7ZYGQPWF8T2MJ10TEVPJ8T",
+                  "type": "component:image",
+                  "assetId": "01EC7ZYGRR2Q43DX7SSRXXH4BV",
+                  "styleId": "07270QZFWPA09V2ZCRPF7SQ5A4QEQFGG"
+                },
+                {
+                  "id": "01ECJDZA3X07BHYBCZHB6TFP44",
+                  "type": "component:text",
+                  "styleId": "8TXS2T8K8KH55GP4T1JR5TXWCBD9W1D0",
+                  "text": {
+                    "en": "Enter your login credentials"
+                  }
+                },
+                {
+                  "id": "01ECJDZA3X2ZSNREKWM93ZWTXP",
+                  "type": "component:text",
+                  "href": "01ECJDZA3DHPZR33N9NP6MFGQ8",
+                  "styleId": "54W826H7GZPF41HKJ5XD7GVNWQC5MKVG",
+                  "text": {
+                    "en": "Create a new user?"
+                  }
+                },
+                {
+                  "id": "01ECJDZA3XN73T48CAMDG1YAB5",
+                  "type": "component:text",
+                  "href": "01ECMNYFV8WZXZDZ3AKGYVZ3JB",
+                  "styleId": "VX34SDVB78ZQ607XWXK4G2DCVY8Q1TEQ",
+                  "text": {
+                    "en": "Forgot your password?"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
